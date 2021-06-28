@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+1. This is using Github pages
+2. This course is for beginners.
